@@ -1,0 +1,36 @@
+
+
+.card-title-bg{
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    font-family: 'sans-serif', sans-serif, cursive;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.card-text-bg{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(51, 50, 50);
+    font-family: 'sans-serif', sans-serif, cursive;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.nbutton{
+    border: 2px solid rgb(121, 121, 120);
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 7px;
+    transition: background-color 0.3s ease;
+    
+}
+
+
+.nbutton:hover {
+    border: 2px solid rgb(255, 94, 0);
+    color: black; /* Optional: Change text color on hover */
+}
